@@ -27,11 +27,13 @@ Tools used:
   
   * *Activation Function: LeakyRelu, elu* *
   * *kernel initializer: glorat_uniform* *
-  I have got
-  **Accuracy: 55%**
-  **loss    : 0.98**
+ 
+ I have got
+  * **Accuracy: 55%**
+  * **loss    : 0.98**
   
   Since i got 55% accuracy, predictions are not much improved
+  
   
   **Future Work:** 
   To get better accuracy I want to do tuning hyper-parameter and train the model with higher resolution images.
