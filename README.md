@@ -3,6 +3,9 @@
 <img src = "output/image2.jpg" width = 400 height=300>
 </p>
 
+
+      One of the most exiciting feild in Artificial Intelligence is working with images and video(video is nothing but set of images).I want to do Image classification. One of such project is Facial Expression classification.
+
 The aim of the project is build a Deep learning network model to train and predict expression of an image and live stream video.
      
 
@@ -13,6 +16,6 @@ The aim of the project is build a Deep learning network model to train and predi
 
 Tools used: 
        python notebook, Keras and openCV,
-          One of the most exiciting feild in Artificial Intelligence is working with images and video(video is nothing but set of images). I want to do Image classification. One of such project is Facial Expression classification.
+           
 
       
