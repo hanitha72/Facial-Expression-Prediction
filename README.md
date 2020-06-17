@@ -17,7 +17,9 @@ The aim of the project is build a Deep learning network model to train and predi
 
 
 Tools used: 
-       python notebook, Keras and openCV.
+       * python notebook
+       * Keras 
+       * openCV.
        
 
        
