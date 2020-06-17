@@ -25,8 +25,8 @@ Tools used:
     Finally, prediction done on picture of interest / live stream by using learned weights of h5 file. 
   epochs used: 25, but because of early stopping as **Stopping criteria** it stopped at 14 epochs
   
-  * *Activation Function: LeakyRelu, elu
-  * *kernel initializer: glorat_uniform
+  *Activation Function: LeakyRelu, elu*
+  *kernel initializer: glorat_uniform*
  
  I have got
   * **Accuracy: 55%**
