@@ -11,7 +11,7 @@
 The aim of the project is build a Deep learning network model to train and predict expression of an image and live stream video.
 <p align="left">
 <img src = "output/Capture.jpg" width = 200 height=200>
-</p> 
+</p>
 
 
 Tools used: 
