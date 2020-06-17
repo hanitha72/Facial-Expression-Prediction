@@ -18,7 +18,7 @@ Tools used:
        python notebook, Keras and openCV.
        
  <p align="center">
-<img src = "output/image2.jpg" width = 600 height=600>
+<img src = "output/Capture.jpg" width = 600 height=600>
 </p>
        
         
