@@ -27,6 +27,7 @@ Tools used:
   
   *Activation Function: LeakyRelu, elu*
   *kernel initializer: glorat_uniform*
+  *This text is italicized*
  
  I have got
   * **Accuracy: 55%**
